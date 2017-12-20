@@ -1,0 +1,9 @@
+speech_recognition >= 3.8.1
+
+chatterbot >= 0.8.1
+
+gtts >= 1.2.2
+
+playsound >= 1.2.2
+
+mutagen >= 1.39
